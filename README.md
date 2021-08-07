@@ -7,5 +7,8 @@ npm install @types/node --save-dev
 npx tsc --init --rootDir src --outDir lib --esModuleInterop --resolveJsonModule --lib es6  --module commonjs
 
 # Jest
-npm i jest @types/jest ts-jest typescript -D
+npm install jest @types/jest ts-jest typescript --save-dev
+
+# ESLint
+npm i eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin --save-dev
 ```
