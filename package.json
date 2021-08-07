@@ -1,0 +1,26 @@
+{
+  "name": "typescript-jest-template",
+  "version": "1.0.0",
+  "description": "Template project for Node, Typescript and Jest",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philjhale/node-typescript-jest-template.git"
+  },
+  "author": "Phil Hale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philjhale/node-typescript-jest-template/issues"
+  },
+  "homepage": "https://github.com/philjhale/node-typescript-jest-template#readme",
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
