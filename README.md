@@ -11,4 +11,7 @@ npm install jest @types/jest ts-jest typescript --save-dev
 
 # ESLint
 npm i eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin --save-dev
+
+# Prettier
+npm install prettier --save-dev
 ```
