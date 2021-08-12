@@ -1,4 +1,6 @@
-# Node, Typescript and Jest template project
+# Node, Typescript and Jest template
+
+A template with Typescript, Jest, ESLint and Prettier pre-configured.
 
 ```
 # Typescript
